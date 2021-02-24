@@ -1,0 +1,2 @@
+#unityの.metaファイルはtraceしない
+*.meta
